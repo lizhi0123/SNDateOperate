@@ -1,387 +1,0 @@
-TSNDateOperate
-v6
-r1
-cCheck dependencies
-cProcessPCH /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.pch SNDateOperate/SNDateOperate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate normal i386
-cGenerateDSYMFile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate
-cCompileStoryboard /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Base.lproj/Main.storyboard
-cCopyStringsFile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/en.lproj/InfoPlist.strings SNDateOperate/en.lproj/InfoPlist.strings
-cCompileAssetCatalog /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Images.xcassets
-cProcessInfoPlistFile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Info.plist /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Info.plist
-cTouch /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
-c00000000521BCCE50000000000000176
-t1377553637
-s374
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
-c00000000523655D100000000000003B5
-t1379292625
-s949
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000052365612000000000000019E
-t1379292690
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000005236562E0000000000445830
-t1379292718
-s4479024
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000005236563C000000000088B570
-t1379292732
-s8959344
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000523656670000000001DB1C90
-t1379292775
-s31136912
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
-c0000000052364DBF0000000000000AC9
-t1379290559
-s2761
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.pch
-t1389252083
-s114240
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o
-t1389252083
-s65248
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.LinkFileList
-c0000000052CE4DF30000000000000276
-t1389252083
-s630
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o
-t1389252083
-s12572
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o
-t1389252083
-s41028
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o
-t1389252083
-s3672
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/assetcatalog_dependencies.txt
-t1389252084
-s407
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/assetcatalog_generated_info.plist
-t1389252084
-s525
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app
-t1389252084
-s306
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM
-t2
-s0
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Base.lproj/Main.storyboardc
-t1389252083
-s170
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Info.plist
-t1389252084
-s1039
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/PkgInfo
-t1389252084
-s8
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate
-t1389252083
-s22644
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/en.lproj/InfoPlist.strings
-t1389252083
-s42
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m
-c0000000052CE4DC500000000000007D4
-t1389252037
-s2004
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Base.lproj/Main.storyboard
-c0000000052CE4DC50000000000000630
-t1389252037
-s1584
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Images.xcassets
-c0000000052CE4DC50000000000000088
-t1389252037
-s136
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Info.plist
-c0000000052CE4DC500000000000004D1
-t1389252037
-s1233
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Prefix.pch
-c0000000052CE4DC50000000000000158
-t1389252037
-s344
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m
-c0000000052A1B293000000000000077D
-t1386328723
-s1917
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m
-c0000000052CE4DC500000000000001EA
-t1389252037
-s490
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/en.lproj/InfoPlist.strings
-c0000000052CE4DC5000000000000002D
-t1389252037
-s45
-
-N/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m
-c0000000052CE4DC5000000000000014E
-t1389252037
-s334
-
-CBuild AST from /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m
-r0
-
-CBuild AST from /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m
-r0
-
-CBuild AST from /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m
-r0
-
-CBuild AST from /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd9403a73857eb841^b37d4073857eb841^---0#1#1#--18"Check dependencies36"D4F1569F-148B-46CE-8117-DB63F80CA1C7-
-
-CCompileAssetCatalog /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Images.xcassets
-s410944883.414400
-e410944884.044545
-r1
-xCompileAssetCatalog
-x/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app
-x/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Images.xcassets
-o/* com.apple.actool.compilation-results */
-o/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/LaunchImage-700-568h@2x.png
-o/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Assets.car
-o/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CompileAssetCatalog Build/Products/Debug-iphonesimulator/SNDateOperate.app SNDateOperate/Images.xcassets104"CompileAssetCatalog Build/Products/Debug-iphonesimulator/SNDateOperate.app SNDateOperate/Images.xcassets03246a73857eb841^27680b74857eb841^-435"/* com.apple.actool.compilation-results *//Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/LaunchImage-700-568h@2x.png/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Assets.car/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Images.xcassets/0000000000000000^1201"CompileAssetCatalog Build/Products/Debug-iphonesimulator/SNDateOperate.app SNDateOperate/Images.xcassets    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Images.xcassets36"A17E8738-7AC2-48E1-98D4-5BE22CCE1D03-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s410944883.294940
-e410944883.349800
-r1
-xCompileC
-xBuild/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o
-x/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m220"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o SNDateOperate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler78974b73857eb841^de8d5973857eb841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m0000000000000000^3849"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o SNDateOperate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/solly/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-generated-files.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-own-target-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-all-target-headers.hmap -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-project-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources/i386 -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources -F/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator -include /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch -MMD -MT dependencies -MF /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.dia -c /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.m -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o36"8DC73159-7F06-44F3-816B-05D0AD177DF8-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s410944883.294966
-e410944883.327875
-r1
-xCompileC
-xBuild/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o
-x/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m224"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o SNDateOperate/SNDateOperate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler849c4b73857eb841^13f05373857eb841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m0000000000000000^3861"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o SNDateOperate/SNDateOperate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/solly/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-generated-files.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-own-target-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-all-target-headers.hmap -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-project-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources/i386 -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources -F/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator -include /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch -MMD -MT dependencies -MF /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.d --serialize-diagnostics /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.dia -c /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate.m -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o36"8DA7F7E6-3893-4E58-9E04-B68E7432A059-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s410944883.294944
-e410944883.341830
-r1
-xCompileC
-xBuild/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o
-x/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m226"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o SNDateOperate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler89974b73857eb841^a1825773857eb841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m0000000000000000^3867"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o SNDateOperate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/solly/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-generated-files.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-own-target-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-all-target-headers.hmap -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-project-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources/i386 -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources -F/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator -include /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch -MMD -MT dependencies -MF /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.dia -c /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/ViewController.m -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o36"8AF23C5A-4000-4784-BF18-615616AC156C-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CCompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s410944883.294941
-e410944883.323403
-r1
-xCompileC
-xBuild/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o
-x/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m206"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o SNDateOperate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler849c4b73857eb841^79ca5273857eb841^---0#0#1#-19%DVTDocumentLocation2@78"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m0000000000000000^3807"CompileC Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o SNDateOperate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/solly/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-generated-files.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-own-target-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-all-target-headers.hmap -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-project-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources/i386 -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources -F/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator -include /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch -MMD -MT dependencies -MF /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.dia -c /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/main.m -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o36"CE2A074F-84F0-47A6-902C-C17E4D454D72-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CCompileStoryboard /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Base.lproj/Main.storyboard
-s410944883.414388
-e410944883.471043
-r1
-xCompileStoryboard
-x/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard SNDateOperate/Base.lproj/Main.storyboard58"CompileStoryboard SNDateOperate/Base.lproj/Main.storyboard6c236a73857eb841^dd967873857eb841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Base.lproj/Main.storyboard0000000000000000^866"CompileStoryboard SNDateOperate/Base.lproj/Main.storyboard    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Base.lproj/Main.storyboardc /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/Base.lproj/Main.storyboard36"561C343C-7438-44D6-ADA2-234B5C0DDA73-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CCopyStringsFile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/en.lproj/InfoPlist.strings SNDateOperate/en.lproj/InfoPlist.strings
-s410944883.414391
-e410944883.416699
-r1
-xCopyStringsFile
-x/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/en.lproj/InfoPlist.strings
-xSNDateOperate/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy SNDateOperate/en.lproj/InfoPlist.strings138"CopyStringsFile Build/Products/Debug-iphonesimulator/SNDateOperate.app/en.lproj/InfoPlist.strings SNDateOperate/en.lproj/InfoPlist.strings7d236a73857eb841^92ad6a73857eb841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/en.lproj/InfoPlist.strings0000000000000000^623"CopyStringsFile Build/Products/Debug-iphonesimulator/SNDateOperate.app/en.lproj/InfoPlist.strings SNDateOperate/en.lproj/InfoPlist.strings    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/en.lproj -- SNDateOperate/en.lproj/InfoPlist.strings36"C854D983-90E3-4CEA-9DB1-CBC6F74B91BC-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CGenerateDSYMFile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate
-s410944883.393517
-e410944883.405823
-r1
-xGenerateDSYMFile
-x/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM
-x/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generate /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM145"GenerateDSYMFile Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperateabcc6473857eb841^04e46773857eb841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM0038d435dcffdf42^706"GenerateDSYMFile Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app.dSYM36"E3DB36B4-B6D3-4EA8-A983-31C30569C03D-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CLd /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate normal i386
-s410944883.358564
-e410944883.384431
-r1
-xLd
-x/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate
-xnormal
-xi386
-d/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-d/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/ViewController.o
-d/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.o
-d/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/AppDelegate.o
-d/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libdnsinfo.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate83"Ld Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate normal i3862bdb5b73857eb841^986a6273857eb841^---0#0#1#--1467"Ld Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate normal i386    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator -F/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator -filelist /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/Objects-normal/i386/SNDateOperate_dependency_info.dat -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/SNDateOperate36"19D35F60-C913-4FAD-A520-A73BE6B40608-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CProcessInfoPlistFile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Info.plist /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Info.plist
-s410944884.053367
-e410944884.057020
-r1
-xProcessInfoPlistFile
-x/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Info.plist
-x/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Process /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Info.plist125"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/SNDateOperate.app/Info.plist SNDateOperate/SNDateOperate-Info.plist9cbf0d74857eb841^85990e74857eb841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Info.plist0000000000000000^951"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/SNDateOperate.app/Info.plist SNDateOperate/SNDateOperate-Info.plist    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Info.plist -genpkginfo /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/assetcatalog_generated_info.plist -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app/Info.plist36"EFB2329E-F219-43B4-B2B8-16C5B70DC5CC-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CProcessPCH /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.pch SNDateOperate/SNDateOperate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s410944883.255760
-e410944883.286269
-r1
-xProcessPCH
-x/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.pch
-xSNDateOperate/SNDateOperate-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile SNDateOperate/SNDateOperate-Prefix.pch235"ProcessPCH Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.pch SNDateOperate/SNDateOperate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd0984173857eb841^ed484973857eb841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Prefix.pch0000000000000000^3719"ProcessPCH Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.pch SNDateOperate/SNDateOperate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/solly/Desktop/GitHub/SNDateOperate    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/solly/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-generated-files.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-own-target-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-all-target-headers.hmap -iquote /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/SNDateOperate-project-headers.hmap -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources/i386 -I/Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/SNDateOperate.build/Debug-iphonesimulator/SNDateOperate.build/DerivedSources -F/Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.dia -MMD -MT dependencies -MF /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.d -c /Users/solly/Desktop/GitHub/SNDateOperate/SNDateOperate/SNDateOperate-Prefix.pch -o /Users/solly/Desktop/GitHub/SNDateOperate/Build/Intermediates/PrecompiledHeaders/SNDateOperate-Prefix-auijsbiybbmyeveqocvncyszpuln/SNDateOperate-Prefix.pch.pch36"B473C8AE-53E4-4B43-860A-125634D2530A-
-b5284823D-16B6-4961-BA87-A270602E1576
-
-CProcessPCH /Users/solly/Library/Developer/Xcode/DerivedData/SNDateOperate-dudugeuwdurvjbgthqwohtfhtjuk/Index/PrecompiledHeaders/SNDateOperate-Prefix-eeztspnwjlyboyebbwftwcoapffq_ast/SNDateOperate-Prefix.pch.pch SNDateOperate/SNDateOperate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/solly/Desktop/GitHub/SNDateOperate/Build/Products/Debug-iphonesimulator/SNDateOperate.app
-r0
-
